@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Gunjan Singh
 
-I am an MCA graduate passionate about technology, problem-solving, and continuous learning. Currently preparing for the **UPSC Prelims 2025**, I bring a unique blend of analytical thinking and technical expertise.  
+I am an MCA graduate passionate about technology, problem-solving, and continuous learning. I bring a unique blend of analytical thinking and technical expertise.  
 
 ## 🚀 Skills  
 - **Programming:** Python, Java, C++  
@@ -12,13 +12,13 @@ I am an MCA graduate passionate about technology, problem-solving, and continuou
 ## 📂 Projects  
 Here are some projects I’ve worked on:  
 
-1. **Project Name 1** - Brief description (GitHub Link)  
-2. **Project Name 2** - Brief description (GitHub Link)  
-3. **Project Name 3** - Brief description (GitHub Link)  
+1. **Student Attendancesystembybarcode** - It is all about blend of modern technology with barcode in taking attendance  
+
 
 ## 🎓 Education  
-- **Master of Computer Applications (MCA)** - [Your University Name]  
-- Other relevant certifications (if any)  
+- **10 and 12 **- CBSE Board
+- **Bachelor of Computer Applications (BCA)** - DBRAU University 
+- **Master of Computer Applications (MCA)** - Galgotia University 
 
 ## 📜 Additional Interests  
 - Competitive programming  
