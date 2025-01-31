@@ -12,7 +12,7 @@ I am an MCA graduate passionate about technology, problem-solving, and continuou
 ## 📂 Projects  
 Here are some projects I’ve worked on:  
 
-1. **Student Attendancesystembybarcode** - It is all about blend of modern technology with barcode in taking attendance  
+1. **Student Attendance system by barcode** - It is all about blend of modern technology with barcode in taking attendance  
 
 
 ## 🎓 Education  
@@ -24,7 +24,8 @@ Here are some projects I’ve worked on:
 - Competitive programming  
 - Open-source contributions  
 - Writing technical blogs  
+- Making Audio books
+
 
 ---
 
-⭐ **Feel free to explore my repositories!**
